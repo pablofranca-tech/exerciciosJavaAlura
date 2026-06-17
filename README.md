@@ -43,4 +43,4 @@ public class Desafio1 {
 //}
 ## Resultado
 
-![Resultado do programa](images/Desafio1.png)
+![Resultado do programa](Desafio01.png)
